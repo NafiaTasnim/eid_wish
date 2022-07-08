@@ -1,0 +1,26 @@
+body {
+    background-image: url("eid-mubarak2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    padding-top: 20%;
+    font-size: 30px;
+    font-family: 'Lobster', cursive;
+}
+
+.heading {
+    color: rgba(24, 248, 91, 0.767);
+}
+
+.decore {
+    text-decoration: none;
+    color: #328285da;
+    margin: o;
+    border: none;
+    padding: 15px 32px;
+    display: inline-block;
+    font-size: 30px;
+    background-color: #bec8cca9;
+    border: none;
+    border-radius: 5px;
+}
